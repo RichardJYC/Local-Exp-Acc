@@ -1,3 +1,6 @@
+## Please Note
+The code is not the latest version. Please stay tuned for future updates.
+
 ## Local-Exp-Acc
 Hardware accelerator for local-expansion-move
 
